@@ -1,12 +1,14 @@
 Ce tableau de bord Power BI présente une analyse détaillée des données de ventes, mettant en évidence les indicateurs clés de performance (KPI), la répartition des canaux de vente, et l'évolution des revenus.
 
 Indicateurs Clés (KPIs)
+
 Métrique	Valeur
 Coût Unitaire Total	11,44M
 Revenu Total (202X)	18,26M
 Revenu Global Cumulé	154,57M
 Analyse par Canal de Vente
 1. Répartition des Commandes par Canal
+
 Wheelchair : Principal canal (données dominantes).
 
 Overflower & Fever : Parts de marché respectives de 3%, 4%, et 2%.
